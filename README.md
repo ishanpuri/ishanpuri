@@ -7,8 +7,6 @@
 - 💬 Ask me about Minecraft, code.org and thunkable
 - 😄 Pronouns: Learner
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ishanpuri&show_icons=true&theme=radical&count_private=true)
-![Top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ishanpuri&show_icons=true&theme=radical&count_private=true)
 
 Bookmarks
 
